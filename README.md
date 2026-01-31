@@ -71,6 +71,11 @@ Built with modern web technologies for optimal performance and user experience:
 - Interactive filtering and sorting
 - Clean, intuitive interface
 
+### Design
+- **Background**: Custom-designed in Figma for a professional, racing-inspired aesthetic
+- **UI/UX**: Carefully crafted user interface optimized for data visualization
+
+
 ## Data Sources
 
 Statistics are compiled from official Formula 1 race results of 2022, qualifying sessions, and championship standings throughout the racing season.
