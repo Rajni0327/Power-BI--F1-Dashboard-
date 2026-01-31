@@ -71,7 +71,7 @@ Built with modern web technologies for optimal performance and user experience:
 - Interactive filtering and sorting
 - Clean, intuitive interface
 
-### Design
+## Design
 - **Background**: Custom-designed in Figma for a professional, racing-inspired aesthetic
 - **UI/UX**: Carefully crafted user interface optimized for data visualization
 
